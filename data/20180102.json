@@ -1,0 +1,79 @@
+{
+	"YoungSeb": {
+		"goals": "2",
+		"assists": "1",
+		"saves": "2",
+		"shots": "5",
+		"gg": true,
+		"forfeit": false,
+		"win_loss": "loss",
+		"competitive": true,
+		"playlist": "doubles"
+	},
+	"Grub": {
+		"goals": "1",
+		"assists": "1",
+		"saves": "1",
+		"shots": "1",
+		"gg": false,
+		"forfeit": false,
+		"win_loss": "loss",
+		"competitive": true,
+		"playlist": "doubles"
+	},
+	"Kappn": {
+		"goals": "3",
+		"assists": "1",
+		"saves": "1",
+		"shots": "1",
+		"gg": true,
+		"forfeit": false,
+		"win_loss": "win",
+		"competitive": true,
+		"playlist": "doubles"
+	},
+	"N3XT": {
+		"goals": "2",
+		"assists": "2",
+		"saves": "1",
+		"shots": "4",
+		"gg": true,
+		"forfeit": false,
+		"win_loss": "win",
+		"competitive": true,
+		"playlist": "doubles"
+	},
+	"whalee": {
+		"goals": "2",
+		"assists": "0",
+		"saves": "2",
+		"shots": "4",
+		"gg": true,
+		"forfeit": false,
+		"win_loss": "win",
+		"competitive": true,
+		"playlist": "doubles"
+	},
+	"Cozy": {
+		"goals": "1",
+		"assists": "2",
+		"saves": "3",
+		"shots": "4",
+		"gg": false,
+		"forfeit": false,
+		"win_loss": "win",
+		"competitive": true,
+		"playlist": "doubles"
+	},
+	"Zaner5000": {
+		"goals": "2",
+		"assists": "1",
+		"saves": "0",
+		"shots": "5",
+		"gg": false,
+		"forfeit": false,
+		"win_loss": "win",
+		"competitive": true,
+		"playlist": "doubles"
+	}
+} 
